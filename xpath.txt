@@ -1,0 +1,7 @@
+when there is no attribute to find element on the webpage 
+step1: Verify if it is a pair or unpair tag
+step2:if it is unpair tag then follow the below steps 
+
+
+iphone:search
+go to bootom 
